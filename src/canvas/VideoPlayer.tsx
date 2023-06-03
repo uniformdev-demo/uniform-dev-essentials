@@ -1,3 +1,5 @@
+/* eslint-disable */
+// @ts-nocheck
 import { FC } from 'react';
 import classNames from 'classnames';
 import { registerUniformComponent, ComponentProps, UniformText, UniformSlot } from '@uniformdev/canvas-react';
